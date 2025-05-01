@@ -1,0 +1,20 @@
+# Node.js / React project
+node_modules/
+
+# Build directories
+/dist/
+/build/
+
+# IDE / Editor configurations
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# dotenv environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
